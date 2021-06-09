@@ -8,9 +8,9 @@ repository:
 twitter: 
 github: graminha-matheus
 
-header_image: assets/me-removebg-preview(4).png
+header_image: assets/Picture2.png
 google_analytics:
-comments: false
+comments: true
 disqus: 
 
 author: Kunshire
